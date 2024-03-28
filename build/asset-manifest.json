@@ -13,4 +13,9 @@
     "static/css/main.0d475581.css",
     "static/js/main.b56e32a2.js"
   ]
+   "homepage": "https://<r-a-m-a-n-1>.github.io/<react_component>",
+   "scripts": {
+     "deploy": "gh-pages -d build"
+   }
+
 }
